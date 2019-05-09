@@ -6,8 +6,7 @@ import org.junit.Test;
 import picoplaca.automobile.factory.AutomobileFactory;
 
 /**
- * Calculator for pico and placa, let me know if a car can be on the Road.
- *
+ * Calculator for pico and placa, let me know if a car can be on the Road. *
  * On base of the license plate I can have differents type of cars:
  *
  * Vehículos comerciales        A, U, Z	Ejemplo:AAB-0123
